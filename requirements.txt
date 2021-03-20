@@ -46,7 +46,7 @@ future==0.18.2
 greenlet==0.4.15
 idna==2.9
 jdcal==1.4.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.9.5
 lml==0.0.9
 lxml==4.5.0
