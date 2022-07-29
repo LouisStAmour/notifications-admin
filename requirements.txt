@@ -51,7 +51,7 @@ jmespath==0.9.5
 lml==0.0.9
 lxml==4.5.0
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 monotonic==1.5
 openpyxl==3.0.3
 orderedset==2.0.1
